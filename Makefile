@@ -39,9 +39,6 @@ sobel: $(TARGET)
 laplacian: $(TARGET)
 	./$(TARGET) laplacian
 
-8_laplacian: $(TARGET)
-	./$(TARGET) 8_laplacian
-
 forsen: $(TARGET)
 	./$(TARGET) forsen
 
